@@ -4,6 +4,6 @@
 
 🚀 Projects: Explore my newest project examining, where I apply data science to understand the impact of loss of a spouse on the need for home care services.
 
-💊 Work: As a health economist at NHTA, I specialize in market access, real-world evidence (RWE), biostatistics, and health economics.
+💊 Work: Health economist at NHTA, I specialize in market access, real-world evidence (RWE), biostatistics, and health economics.
 
 📫 Connect with me on LinkedIn to get in touch!
